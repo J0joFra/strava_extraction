@@ -1,7 +1,7 @@
 from fitparse import FitFile
 import pandas as pd
 
-fitfile = FitFile("Brugai_Monte_Parè.fit")
+fitfile = FitFile("Strava/Brugai_Monte_Parè.fit")
 
 data = []
 
